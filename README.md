@@ -10,3 +10,5 @@ Avaliando os resultados:
 3) Quais são os valores de Precision, Recall e F1-Score para a Classe 1?
 4) Como a mudança do threshold afeta a performance do modelo?
 5) Baseado nos resultados, qual threshold parece mais adequado?
+
+Análise: [abrir](https://github.com/marciofag/py-avaliacao-modelos-classificacao/blob/main/avaliacao_modelos_classificacao.ipynb)
